@@ -498,13 +498,13 @@ span{
         margin-top: 4rem;
     }
     .portfolio{
-         height: 180vh; 
+         height: 0%; 
     }
     .home{
-         height: 170vh; 
+         height: 0%; 
     }
     .about{
-         height: 200vh; 
+         height: 0%; 
     } 
 }
 @media(max-width: 450px){
